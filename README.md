@@ -1,1 +1,2 @@
-# pricepredict_model
+here I have practised to build linear and multiple linear regression model to predict car prices, further I have analysed distribution, residual plots etc. Learned why, when and how to do a polynomial transformation and how to use pipelines. The next and to make this more robust we will need to seperate training and test data and see how the model does to predict unseen data which will be added on next repository,
+June 13, 2023
